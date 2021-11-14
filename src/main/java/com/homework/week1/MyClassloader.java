@@ -1,4 +1,4 @@
-package week1;
+package main.java.com.homework.week1;
 
 import java.io.*;
 
